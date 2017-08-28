@@ -1,6 +1,17 @@
+body{
+    text-align: center;
+}
 .container-fluid{
     background-color: #404040;
     height: 100%;
     width: 100%;
+}
+
+.topper{
+    color: white;
+    display: inline-block;
+    font-weight: 100;
+    font-size: 20px;
+    text-align: center;
 }
 
