@@ -196,9 +196,21 @@ a:hover{
     padding-left: 100px;
     padding-right: 100px;
     color: #999999;
+
 }
 
 .learn{
     color: #227597;
     font-size: 11px;
 }
+
+.top{
+    background-color: lightgray;
+    color: black;
+    font-weight: 900;
+    padding: 40px;
+
+}
+ .col-md-4{
+     padding-bottom: 40px;
+ }
