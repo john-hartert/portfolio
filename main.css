@@ -104,7 +104,7 @@ a:hover{
 }
 #menuToggle input:checked ~ span{
   opacity: 1;
-  transform: rotate(45deg) translate(-2px, -1px);
+  transform: rotate(45deg) translate(-2px, -7px);
   background: #232323;
 }
 #menuToggle input:checked ~ span:nth-last-child(3){
@@ -183,6 +183,11 @@ a:hover{
     background: none;
     padding: 12px 22px;
     color: white;
+}
+
+.btn-default.outline {
+	border: 2px solid white;
+	color: white;
 }
 
 .hlight-1{
