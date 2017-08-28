@@ -22,6 +22,7 @@ body{
     display: inline-block;
 }
 
+
 a:hover{
     color: lightgray;
     text-decoration: none;
@@ -40,7 +41,14 @@ a:hover{
     width: 100%;
     display: flex;
     flex: left;
-    
+}
+
+/* ///////////////////////////////////////////////////// */
+
+#hero-img{
+    height: 700px;
+    width: 100%;
+    background-color: #404040;
 }
 
 
