@@ -1,6 +1,7 @@
 body{
     text-align: center;
     overflow-x: hidden;
+    font-family: 'Poppins', sans-serif;
 }
 .col-md-8{
     background-color: #404040;
@@ -147,17 +148,39 @@ a:hover{
     color: white;
     font-size: 14px;
     font-weight: 100;
+    padding-top: 250px;
 }
 
 .second{
     font-family: 'Poppins', sans-serif;
     color: white;
     font-size: 50px;
+    font-weight: 800;
 }
 
 .third{
     font-family: 'Poppins', sans-serif;
     color: white;
     font-size: 20px;
+    font-weight: 200;
+}
+
+.btn-primary{
+    border-radius: 24px;
     font-weight: 100;
+    font-size: 12px;
+    margin-top: 10px;
+    padding: 12px 22px;
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+.btn-default{
+    border-radius: 24px;
+    font-weight: 100;
+    font-size: 12px;
+    margin-top: 10px;
+    background: none;
+    padding: 12px 22px;
+    color: white;
 }
