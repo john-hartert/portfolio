@@ -4,7 +4,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 .col-md-8{
-    background-color: #404040;
+    background-color: #313131;
     height: 100%;
     width: 100%;
     padding-bottom: 10px;
@@ -38,7 +38,7 @@ a:hover{
 #hero-img{
     height: 700px;
     width: 100%;
-    background-color: #404040;
+    background-color: #313131;
     border-top: thin solid lightgray;
 }
 
