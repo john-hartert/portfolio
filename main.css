@@ -226,3 +226,9 @@ a:hover{
  #skills{
      padding-bottom: 20px;
  }
+
+ #about{
+     padding-left: 300px;
+     padding-right: 300px;
+     padding-top: 20px;
+ }
