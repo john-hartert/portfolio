@@ -232,3 +232,11 @@ a:hover{
      padding-right: 300px;
      padding-top: 20px;
  }
+
+ #bottom{
+    background-color: lightgray;
+    color: black;
+    padding: 40px;
+    width: 100%;
+    padding-top: 10px;
+ }
